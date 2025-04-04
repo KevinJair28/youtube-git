@@ -1,0 +1,20 @@
+* 54b9c68 agregando 2 parrafos
+* a6d4ef4 Agregando estaciones del año con fecha
+*   e46af93 resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * f2d5889 agregando index.js al index.html
+* | cbcece6 Agregando style.css al index.html
+* |   3f99668 Merge branch 'js'
+|\ \  
+| * | b1138b0 Creando index.js
+* | | c8fa00b Creando style.css
+| |/  
+|/|   
+* | 8a7de66 Creando index.html
+|/  
+* 6df0303 "Modificando nombre de archivo gitignore"
+* 17880a0 Cambio nombre de archivo
+* fca611f Creando licencia de repositorio
+* 0b1603b Agregando más contenido al READMI
+* 15c9d34 Agregando Contenido inicial al READMI
+* 2a33916 Primer commit :D

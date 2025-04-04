@@ -1,0 +1,91 @@
+commit 54b9c68ddaff967c458ed4df7f899f050c5960e4
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Thu Mar 27 20:14:13 2025 -0500
+
+    agregando 2 parrafos
+
+commit a6d4ef415ca0bf1e28f4cdc1407048501b1917c0
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 22:52:15 2025 -0500
+
+    Agregando estaciones del año con fecha
+
+commit e46af93973771ea40509904dd3beca8db8951d26
+Merge: cbcece6 f2d5889
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 22:40:11 2025 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit f2d58897e17366013a01cbb0c8da3ace22b39103
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 22:31:56 2025 -0500
+
+    agregando index.js al index.html
+
+commit cbcece6ba8b59382dedc51673ef129880527eba4
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 22:29:14 2025 -0500
+
+    Agregando style.css al index.html
+
+commit 3f99668d8d205d7d051972771e3c14513536c2a2
+Merge: c8fa00b b1138b0
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 22:00:53 2025 -0500
+
+    Merge branch 'js'
+
+commit b1138b0ea6323c02f947e69a6271383cc2ac1600
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 21:54:15 2025 -0500
+
+    Creando index.js
+
+commit c8fa00b1b1420dd11d2aa52e0ab4becc033a8189
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 21:41:38 2025 -0500
+
+    Creando style.css
+
+commit 8a7de66cd195382ee428291a58b8e8c6b7a75db2
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Wed Mar 26 21:34:55 2025 -0500
+
+    Creando index.html
+
+commit 6df0303d5d8774726c7da93974e82125f39fe1f5
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Tue Mar 25 23:43:32 2025 -0500
+
+    "Modificando nombre de archivo gitignore"
+
+commit 17880a0ce5170c07973894361913e35240062b61
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Sun Mar 23 22:43:51 2025 -0500
+
+    Cambio nombre de archivo
+
+commit fca611ff86d5490c72310e915bdb4d0e9f211e41
+Author: KevinJair28 <109641372+KevinJair28@users.noreply.github.com>
+Date:   Sun Mar 23 22:39:58 2025 -0500
+
+    Creando licencia de repositorio
+
+commit 0b1603bba27b24cd34479a1ec55db8fde7c28b64
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Sun Mar 23 20:44:55 2025 -0500
+
+    Agregando más contenido al READMI
+
+commit 15c9d342e9be79925dd8d84e096a1d52a8dadf91
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Sun Mar 23 20:17:19 2025 -0500
+
+    Agregando Contenido inicial al READMI
+
+commit 2a33916fa4d595660d4e59e0b502a63fcc5a7467
+Author: Kevin Jair <kevinvasquez.280496@gmail.com>
+Date:   Sun Mar 23 20:13:20 2025 -0500
+
+    Primer commit :D
